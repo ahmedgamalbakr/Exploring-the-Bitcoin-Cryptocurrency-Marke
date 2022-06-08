@@ -25,9 +25,7 @@ o better understand the growth and impact of Bitcoin and other cryptocurrencies 
 
 ## Online Project WorkSpace
 
-DataCamp Online WorkSpace  
-[Project Link](https://app.datacamp.com/workspace/w/64c72178-f459-4a61-bd0c-24e9be7d0de9)
 
 ## Author
 
-######  **Abdelrhman Yassein  :**  [LinkedIn](https://www.linkedin.com/in/Abdelrhman-Yassein/) - [GitHub](https://github.com/Abdelrhman-Yassein?tab=repositories)
+######  **Ahmed Gamal Bakr  :
